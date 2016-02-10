@@ -2,9 +2,10 @@
     <span class="container-header">Log in</span>
     <form class="app-form">
         <label class="app-label">Email</label>
-        <input type="email" ng-model="user.email" name="Email" placeholder="email" required>
+        <input type="email" ng-model="user.email" name="Email" placeholder="email">
         <label class="app-label">Password</label>
-        <input type="password" ng-model='user.password' name="Password" placeholder="password" required>
+        <input type="password" ng-model='user.password' name="Password" placeholder="password">
+        <br/><br/>
         <label class='error-info'>{{apiError}}</label>
         <span class="button-container">
 		 	<input type="submit" ng-click='authenticateUser()'value="Log in" class="app-button">
