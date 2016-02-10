@@ -1,0 +1,364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nreds",
+				"nerds"
+			],
+			[
+				"b",
+				"bodyParser"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"se",
+				"surveys"
+			],
+			[
+				"survey",
+				"surveys-overview"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"mo",
+				"mongoose"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prettif",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/jyotisharma/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jyotisharma/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jyotisharma/Work/convrt.js",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/02-pack-it/README.md",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/04-noisy-channel/README",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/01-geo-lookup/README.md",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/00-cookie-farms/README.md",
+		"/Users/jyotisharma/Downloads/convertcsv.json",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/10-word-count/lib/index.coffee",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/10-word-count/test/index.coffee",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/10-word-count/test/fixtures/1,9,44.txt",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/10-word-count/test/fixtures/3,7,46.txt",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/06-memory/lib/index.coffee",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/06-memory/README.md",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/10-word-count/README.md",
+		"/Users/jyotisharma/Work/development/e-mart/config/passport.js",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/10-word-count/node_modules/coffee-script/lib/coffee-script/scope.js",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/10-word-count/test/fixtures/5,9,40.txt",
+		"/Users/jyotisharma/Work/development/e-mart/app/models/user.js",
+		"/Users/jyotisharma/Work/development/adslot/count/node-puzzle/10-word-count/sample.js",
+		"/Users/jyotisharma/Work/development/e-mart/app/routes.js",
+		"/Users/jyotisharma/Work/development/e-mart/public/sections/login/login-controller.js",
+		"/Users/jyotisharma/Work/development/e-mart/server.js",
+		"/Users/jyotisharma/Work/development/e-mart/config/auth.js",
+		"/Users/jyotisharma/Work/development/e-mart/package.json",
+		"/Users/jyotisharma/Work/development/e-mart/public/scripts/services/mocks/ProductDataModel.js",
+		"/Users/jyotisharma/Work/development/e-mart/public/scripts/app.js",
+		"/Users/jyotisharma/Work/development/mean_app/server.js",
+		"/Users/jyotisharma/Work/development/mean_app/app/routes.js",
+		"/Users/jyotisharma/Work/development/mean_app/public/js/services/NerdService.js",
+		"/Users/jyotisharma/Work/development/mean_app/app/models/nerd.js",
+		"/Users/jyotisharma/Work/development/mean_app/public/js/controllers/NerdCtrl.js",
+		"/Users/jyotisharma/Work/development/mean_app/config/db.js",
+		"/Users/jyotisharma/Work/development/mean_app/package.json",
+		"/Users/jyotisharma/Work/development/mean_app/public/views/home.html",
+		"/Users/jyotisharma/Work/development/mean_app/public/views/nerd.html",
+		"/Users/jyotisharma/Work/development/mean_app/public/index.html",
+		"/Users/jyotisharma/Work/development/mean_app/public/css/style.css",
+		"/Users/jyotisharma/Work/development/mean_app/public/view/nerd.html",
+		"/Users/jyotisharma/Work/development/mean_app/public/view/home.html",
+		"/Users/jyotisharma/Work/development/mean_app/public/js/MainCtrl.js",
+		"/Users/jyotisharma/Work/development/mean_app/public/js/NerdCtrl.js",
+		"/Users/jyotisharma/Work/development/mean_app/public/js/appRoutes.js",
+		"/Users/jyotisharma/Work/development/mean_app/public/js/app.js",
+		"/Users/jyotisharma/Work/development/mean_app/public/js/controllers/MainCtrl.js",
+		"/Users/jyotisharma/Work/development/mean_app/.bowerrc",
+		"/Users/jyotisharma/Work/development/mean_app/bower.json",
+		"/Users/jyotisharma/Work/development/app/ngapp/scripts/services/mocks/UserDataModel.js",
+		"/Users/jyotisharma/Work/development/app/ngapp/scripts/app.js",
+		"/Users/jyotisharma/Work/development/app/index.html",
+		"/Users/jyotisharma/Work/development/app/ngapp/scripts/services/mocks/mock_catch.js",
+		"/Users/jyotisharma/Work/development/mean-stack/chapter1/interface.js",
+		"/Users/jyotisharma/Work/development/app/ngapp/assets/styles/main.css",
+		"/Users/jyotisharma/Work/development/app/ngapp/scripts/services/login-service.js",
+		"/Users/jyotisharma/Work/development/app/ngapp/sections/login/login-controller.js",
+		"/Users/jyotisharma/Work/development/app/ngapp/sections/main/main.html",
+		"/Users/jyotisharma/Work/development/app/package.json",
+		"/Users/jyotisharma/Downloads/app/ngapp/scripts/app.js",
+		"/Users/jyotisharma/Downloads/app/ngapp/scripts/services/login-service.js",
+		"/Users/jyotisharma/Downloads/app/ngapp/scripts/mocks/UserDataModel",
+		"/Users/jyotisharma/Work/development/angular-ruby/back-end-code/README.md",
+		"/Users/jyotisharma/Work/development/front-end-coding-test-by-jyoti/app/assets/styles/style.css",
+		"/Users/jyotisharma/Work/development/front-end-coding-test/README.md",
+		"/Users/jyotisharma/Work/development/sample/app/ngapp/sections/available-surveys/surveys-overview-controller.js",
+		"/Users/jyotisharma/Work/development/sample/app/ngapp/sections/survey-details/survey-details.html",
+		"/Users/jyotisharma/Work/development/sample/app/ngapp/sections/survey-details/survey-details-controller.js",
+		"/Users/jyotisharma/Work/development/sample/app/ngapp/scripts/survey1.json",
+		"/Users/jyotisharma/Work/development/sample/app/ngapp/scripts/surveys.json",
+		"/Users/jyotisharma/Work/development/sample/app/ngapp/template/main.html",
+		"/Users/jyotisharma/Work/development/sample/app/ngapp/scripts/controller.js",
+		"/Users/jyotisharma/Work/development/chapter4/test.js",
+		"/Users/jyotisharma/Work/development/chapter4/controllers.js",
+		"/Users/jyotisharma/Work/development/chapter4/karma.local.conf.js",
+		"/Users/jyotisharma/Work/development/chapter4/package.json",
+		"/Users/jyotisharma/Work/development/chapter4/templates/search_bar.html",
+		"/Users/jyotisharma/Work/development/chapter4/index.html",
+		"/Users/jyotisharma/Work/development/chapter4/templates/add_to_cart.html",
+		"/Users/jyotisharma/Work/development/chapter4/index.js",
+		"/Users/jyotisharma/Work/development/chapter4/directives.js",
+		"/Users/jyotisharma/Work/development/chapter4/services.js",
+		"/Users/jyotisharma/Work/development/chapter4/css/mean-retail.css",
+		"/Users/jyotisharma/Work/development/chapter4/gulpfile.js",
+		"/Users/jyotisharma/Work/development/chapter4/README.md",
+		"/Users/jyotisharma/Work/development/chapter4/node_modules/gulp/bin/gulp.js",
+		"/Users/jyotisharma/Work/development/chapter2/course.js",
+		"/Users/jyotisharma/Work/development/chapter2/test.js",
+		"/Users/jyotisharma/Work/development/chapter2/student.js",
+		"/Users/jyotisharma/Work/development/chapter1/mongoose_schema.js",
+		"/Users/jyotisharma/Work/development/chapter1/mongoose_main.js",
+		"/Users/jyotisharma/Work/development/chapter1/interface.js",
+		"/Users/jyotisharma/Work/development/chapter1/test.js",
+		"/Users/jyotisharma/Work/development/chapter1/package.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"hot_exit",
+			"remember_open_files",
+			"COD",
+			": ",
+			": \n:",
+			": \n",
+			":\n",
+			" } }\n",
+			");\n",
+			"Kiribati",
+			"=>",
+			"US",
+			"({}));",
+			"Australia",
+			"australia",
+			"RU",
+			"console.log",
+			"quoted",
+			"console.log\n",
+			"++\n",
+			"console",
+			"transform",
+			"module.export",
+			"console",
+			"fix",
+			"var\n",
+			"var \n",
+			"g",
+			"transform",
+			"tran",
+			"flash",
+			"node_modules/",
+			"ngapp/",
+			"api.",
+			",function(success){\n$scope.apiData=success;\n    }",
+			">\n",
+			"nopt",
+			"js",
+			"state",
+			"localhost",
+			"failed",
+			"myServices",
+			">\n",
+			"$httpBackend.when('POST', /mock\\/auth\\/createUser/).respond(function(method, url, data) {\n      var _user = UserDataModel.getUser();\n      return [200, {user:_user}, {}];\n    })",
+			"\", ",
+			"                    \n",
+			">\n",
+			"localhost",
+			"example",
+			" .state({\n        name: 'main',\n        controller: \"MainController\",\n        url: '',\n        template: '<div>Welcome <a ui-sref=\"main.login\">go!!</a></div>'\n      })",
+			"postMessage",
+			"/assessment/",
+			"assert",
+			"searchbar",
+			"watch",
+			"process.env",
+			"check"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"=> ",
+			"=>",
+			" } },",
+			":",
+			"",
+			" ",
+			"",
+			"libs/",
+			"",
+			"assessment/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "e-mart.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

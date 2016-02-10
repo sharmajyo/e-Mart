@@ -1,0 +1,38 @@
+<!Doctype html>
+<html>
+<head>
+	<title>E mart</title>
+	<link href="assets/styles/main.css" rel="stylesheet" type="text/css"> </link>
+	<link href="assets/styles/login.css" rel="stylesheet" type="text/css"> </link>
+	
+</head>
+<body ng-app="myapp">
+<div class="application-box" ui-view >
+
+</div>
+<script src="libs/jquery/dist/jquery.min.js"></script>
+<script src="libs/angular/angular.min.js"></script>
+<script src="libs/underscore/underscore-min.js"></script>
+<script src="libs/angular-mocks/angular-mocks.js"></script> 
+<script src="libs/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script src="libs/angular-resource/angular-resource.min.js"></script>
+
+
+<script src="scripts/app.js"></script>
+<script src="scripts/services/login-service.js"></script>
+<script src="scripts/services/product-service.js"></script>
+
+<script src="sections/main/main-controller.js"></script>
+<script src="sections/main/sections/product/product-controller.js"></script>
+<script src="sections/main/sections/product/sections/detail/detail-controller.js"></script>
+<script src="sections/main/sections/product/sections/overview/overview-controller.js"></script>
+<script src="sections/main/sections/cart/cart-controller.js"></script>
+<script src="sections/main/sections/payment/payment-controller.js"></script>
+<script src="sections/login/login-controller.js"></script>
+<script src="sections/signup/signup-controller.js"></script>
+
+<script src="scripts/services/mocks/mock_catch.js"></script>
+<script src="scripts/services/mocks/UserDataModel.js"></script>
+<script src="scripts/services/mocks/ProductDataModel.js"></script>
+</body>
+</html>

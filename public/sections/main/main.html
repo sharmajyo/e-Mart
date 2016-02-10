@@ -1,0 +1,19 @@
+<div class="main-container">
+	<div class="main-header">
+		<span class="welcome-text">
+			<text style="font-size:13px">Welcome </text>{{loggedInUser.email}}
+		</span>
+		<span class="logoutandcart-text">
+			
+			<a ng-click="logOutUser()" class="logout">Log Out</a >
+			
+			<span class="cart">
+ 				<a ui-sref="main.cart">Cart</a>
+			</span>
+
+		</span>
+	</div>
+	<div class="main-view-container" ui-view>
+
+	</div>
+</div>

@@ -1,0 +1,12 @@
+<div>
+<h3  style="padding-left:20px"> Please select the product</h3>
+<div class='product-container'>
+	<div  class="product-box" ng-repeat='product in products'>
+		<img class='product-thumbnail' ng-src='{{product.image}}'>
+		<div class>
+		{{product.product_name}}
+		{{product.price}}
+		</div>
+	</div>
+</div>
+</div>

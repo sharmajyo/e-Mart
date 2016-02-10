@@ -1,0 +1,23 @@
+<div class="login-container">
+<span class="container-header">Sign Up</span>
+<form class="app-form">
+	<label class="app-label">Email</label>	 
+ 	<input type="text" name="Email" placeholder="email" ng-model="user.email">
+ 	
+ 	<label class="app-label">Password</label>	
+ 	<input type="password" name="password" placeholder="password" ng-model="user.password">
+
+ 	<label class="app-label">Confirm password</label>	
+ 	<input type="password" name="confirmPassword" placeholder="confirm password" ng-model="user.confirmPassword" >
+	
+	<br>
+	<br>
+ 	<label class='error-info'>{{apiError}}</label>
+ 	
+	<span class="button-container">
+		<input type="submit" value="Sign up" ng-click="createUser()" class="app-button"</input>
+	 	<input type="submit" ng-click='showLogin()'value="Log in" class="app-button">
+	</span>
+</form>
+
+</div>

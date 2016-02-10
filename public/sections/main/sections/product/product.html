@@ -1,0 +1,8 @@
+<div class='category-container'>
+Categories:
+<div class='category-box' ng-repeat="(key,value) in categories">
+<a ng-click='categorySelected(value)'>{{key}}</a>
+</div>
+</div>	
+<div class="product-view-container" ui-view>
+</div>

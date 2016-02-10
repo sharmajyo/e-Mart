@@ -1,0 +1,100 @@
+body,
+html {
+    background-color: #DEE2EE;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+html {}
+
+.application-box {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-container {
+    border: 1px solid #ccc;
+    width: 400px;
+    border-radius: 5px;
+}
+
+.container-header {
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    align-content: center;
+    justify-content: center;
+    font-size: xx-large;
+    color: #000;
+    background-color: #ddd;
+    text-align: center;
+    box-sizing: border-box;
+    height: 60px;
+    padding-top: 10px;
+}
+
+.app-form {
+    padding: 30px;
+    background-color: ghostwhite;
+}
+
+.app-form .button-container {
+    display: inline;
+}
+
+.app-form .button-container input[type='submit'] {
+    margin-right: 20px;
+}
+
+.app-label {
+    width: 100px;
+    display: inline-block;
+}
+
+input,
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea {
+    height: 40px;
+    width: 60%;
+    background: transparent;
+    outline: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    border: none;
+    font-size: 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+.error-info {
+    display: block;
+    font-size: 14px;
+    color: red;
+}
+
+.app-button {
+    width: 120px;
+    height: 40px;
+    background-color: #37E0D1;
+    color: #fff;
+    background-color: 37E0D1;
+    border-radius: 4px;
+    margin: 20px 0px;
+    cursor: pointer;
+}
