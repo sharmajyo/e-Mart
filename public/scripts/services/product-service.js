@@ -4,7 +4,7 @@
         .factory('Product', ['$resource','API_URL',
             function ($resource,API_URL) {
 
-                return $resource(API_URL+'products',{id: '@id'}, {
+                return $resource(API_URL+'product',{id: '@id'}, {
                     get: {
                         method: 'GET',
                         params: {format: 'json'},

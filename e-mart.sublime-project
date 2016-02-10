@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/jyotisharma/Work/development/mean-stack/chapter3"
 		}
 	]
 }
