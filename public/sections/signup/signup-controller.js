@@ -26,7 +26,7 @@
                         },
                         function(success) {
                             $rootScope.hasUserLoggedIn = true;
-                            $rootScope.loggedInUser = success.user;
+                            $rootScope.loggedInUser = success.local;
                             $state.go('main.product.overview');
                         },
                         function(error) {
